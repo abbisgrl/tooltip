@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1>Tooltip Demo</h1>
       <Tooltip content="Thanks for hovering! I am a tooltip" direction="right">
-        <button className="button">Hover over me</button>
+        <button className="button">Hover Over me</button>
       </Tooltip>
     </div>
   );
